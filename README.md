@@ -1,4 +1,4 @@
-# image-to-terminal
+# Image to the Terminal ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 This project can display any image provided in the terminal using colors supported by the terminal
 
 ## Usage
